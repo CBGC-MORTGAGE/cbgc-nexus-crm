@@ -1,5 +1,5 @@
 [build]
-  command = "npm install ajv@6.12.6 --legacy-peer-deps && npm run build"
+  command = "npm run build"
   publish = "build"
 
 [build.environment]
